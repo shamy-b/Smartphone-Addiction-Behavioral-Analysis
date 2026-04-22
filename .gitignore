@@ -1,9 +1,7 @@
 # Project
 plan.md
-requirements.txt
 
-# Data (too large for repo)
-data/
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -13,7 +11,7 @@ venv/
 ENV/
 
 # Jupyter Notebooks
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # OS files
 .DS_Store
@@ -21,3 +19,7 @@ Thumbs.db
 
 # Data (too large for repo)
 data/
+notebooks/
+src/
+models/
+venv/
