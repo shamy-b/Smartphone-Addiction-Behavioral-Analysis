@@ -23,3 +23,6 @@ notebooks/
 src/
 models/
 venv/
+
+# Graphify
+graphify-out/
